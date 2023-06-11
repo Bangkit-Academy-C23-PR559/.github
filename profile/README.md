@@ -1,6 +1,6 @@
-## Hi there 👋
+## StoryVerse-App 👋
 
-
+## Bangkit C23-PR559 Team Members
 |         Member              | Student ID |        Path        |                Role                        |                                                  Contacts                                                  |
 | :--------------------:      | :--------: | :----------------: | :----------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
 | Lusia Divi Cahya Agustina        |  M215DSY2554  |  Machine Learning  | Project Manager, Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/lusia-divi-cahya-agustina-0914b7266/)     |
