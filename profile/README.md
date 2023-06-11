@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+|         Member              | Student ID |        Path        |                Role                        |                                                  Contacts                                                  |
+| :--------------------:      | :--------: | :----------------: | :----------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+| Haidar Rheza Paleva         |  C151DSX1675  |  Cloud Computing  | Devops Engineer | [LinkedIn](https://www.linkedin.com/in/haidar-rheza-paleva-027509194/)       |
+
 <!--
 
 **Here are some ideas to get you started:**
