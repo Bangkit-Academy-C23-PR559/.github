@@ -3,6 +3,7 @@
 
 |         Member              | Student ID |        Path        |                Role                        |                                                  Contacts                                                  |
 | :--------------------:      | :--------: | :----------------: | :----------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+| Lusia Divi Cahya Agustina        |  C151DSX1675  |  Machine Learning  | Project Manager, Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/lusia-divi-cahya-agustina-0914b7266/)     |
 | Haidar Rheza Paleva         |  C151DSX1675  |  Cloud Computing  | Devops Engineer | [LinkedIn](https://www.linkedin.com/in/haidar-rheza-paleva-027509194/)       |
 
 <!--
