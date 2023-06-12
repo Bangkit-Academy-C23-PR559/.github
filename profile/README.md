@@ -1,4 +1,4 @@
-## StoryVerse-App 👋
+## Our Project : StoryVerse-App 👋
 
 ## Bangkit C23-PR559 Team Members
 |         Member              | Student ID |        Path        |                Role                        |                                                  Contacts                                                  |
