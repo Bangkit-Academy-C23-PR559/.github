@@ -1,4 +1,4 @@
-## Our Project : StoryVerse-App 👋
+<h1 align="center">StoryVerse-App 👋</h1>
 
 ## Bangkit C23-PR559 Team Members
 |         Member              | Student ID |        Path        |                Role                        |                                                  Contacts                                                  |
@@ -9,6 +9,11 @@
 | Alfia Siska Nur Safitri      |  C027DSY0690  |  Cloud Computing  | DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/alfia-siska-nur-safitri-9759a2251/)    |
 | Haidar Rheza Paleva         |  C151DSX1675  |  Cloud Computing  | Devops Engineer | [LinkedIn](https://www.linkedin.com/in/haidar-rheza-paleva-027509194/)       |
 | Bagus Wahyu Utomo Daeli        |  A042DSX1704  | Mobile Development | Android Engineer | [LinkedIn](https://www.linkedin.com/in/baguswahyuud/)      |
+
+## Show your support
+
+Give a ⭐️ if this project app helped you!
+
 
 <!--
 
