@@ -1,6 +1,7 @@
 <h1 align="center"> Hi! Welcome to StoryVerse 👋</h1>
 
 ## About StoryVerse
+Storyverse is an application is a forum for sharing and reading stories of each individual's experience. This application was created to increase interest in reading in Indonesian society and also help improve the personal development of each individual. The features that we will make in this application are features for viewing the newest stories and articles, upload photos and writing stories, recommending stories based on categories.
 
 ## Bangkit C23-PR559 Team Members
 |         Member              | Student ID |        Path        |                Role                        |                                                  Contacts                                                  |
