@@ -1,4 +1,6 @@
-<h1 align="center">StoryVerse-App 👋</h1>
+<h1 align="center"> Hi! Welcome to StoryVerse 👋</h1>
+
+## About StoryVerse
 
 ## Bangkit C23-PR559 Team Members
 |         Member              | Student ID |        Path        |                Role                        |                                                  Contacts                                                  |
