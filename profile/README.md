@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! Welcome to StoryVerse 👋</h1>
 
 ## About StoryVerse
-Introducing Storyverse: Connect, Share, and Inspire through Real-Life Stories. Addressing Indonesia's low literacy rates, Storyverse aims to increase reading interest by leveraging the popularity of personal development books. Through a unique human library concept, users engage in open dialogues and learn from others' experiences, fostering a culture of reading. Join us in transforming Indonesia's literacy landscape and unlocking the power of stories for personal growth and societal advancement. Together, let's build a nation of avid readers and storytellers, shaping a brighter future one story at a time.
+Introducing StoryVerse: Connect, Share, and Inspire through Real-Life Stories. Addressing Indonesia's low literacy rates, Storyverse aims to increase reading interest by leveraging the popularity of personal development books. Through a unique human library concept, users engage in open dialogues and learn from others' experiences, fostering a culture of reading. Join us in transforming Indonesia's literacy landscape and unlocking the power of stories for personal growth and societal advancement. Together, let's build a nation of avid readers and storytellers, shaping a brighter future one story at a time.
 
 ## Bangkit C23-PR559 Team Members
 |         Member              | Bangkit ID |        Path        |                                             Contacts                                                  |
