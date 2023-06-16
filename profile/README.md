@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! Welcome to StoryVerse 👋</h1>
 
 ## About StoryVerse
-Storyverse is an application is a forum for sharing and reading stories of each individual's experience. This application was created to increase interest in reading in Indonesian society and also help improve the personal development of each individual. The features that we will make in this application are features for viewing the newest stories and articles, upload photos and writing stories, recommending stories based on categories.
+Introducing Storyverse: Connect, Share, and Inspire through Real-Life Stories. Addressing Indonesia's low literacy rates, Storyverse aims to increase reading interest by leveraging the popularity of personal development books. Through a unique human library concept, users engage in open dialogues and learn from others' experiences, fostering a culture of reading. Join us in transforming Indonesia's literacy landscape and unlocking the power of stories for personal growth and societal advancement. Together, let's build a nation of avid readers and storytellers, shaping a brighter future one story at a time.
 
 ## Bangkit C23-PR559 Team Members
 |         Member              | Student ID |        Path        |                Role                        |                                                  Contacts                                                  |
